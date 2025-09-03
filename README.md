@@ -237,7 +237,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Artur Rodrigues**
 - GitHub: [@ArturRSA19](https://github.com/ArturRSA19)
-- LinkedIn: [Conecte-se comigo](https://linkedin.com/in/seu-perfil)
+- LinkedIn: [Conecte-se comigo](https://linkedin.com/in/arturrsa19)
 
 ---
 
